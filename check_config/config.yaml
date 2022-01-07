@@ -24,3 +24,6 @@ schema:
 startup: once
 uart: true
 usb: true
+sonoff:
+  username: fuereinkaeufe@mail.ru
+  password: Dg@bg1kel
